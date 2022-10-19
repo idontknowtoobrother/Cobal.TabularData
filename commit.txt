@@ -1,0 +1,6 @@
+1. finish one_dim
+2. finish one_dim_table_init
+3. finish two_dim_table
+4. finish ox
+5. finish candy_sale
+6. finish branch_sale
